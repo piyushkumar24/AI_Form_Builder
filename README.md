@@ -1,6 +1,8 @@
 # AI Form Builder - SaaS Application
 
-
+<div align="center">
+  
+  <p>
     AI Form Builder is a SaaS platform that leverages advanced AI technology to allow users to effortlessly generate, edit, and share forms. With seamless integrations, powerful features, and a user-friendly interface, it's the ultimate tool for creating versatile forms that can be shared via links, with responses exportable in XLSX format.
   </p>
   <br />
@@ -9,7 +11,20 @@
   </a>
 </div>
 
+---
 
+## 🤖 Introduction
+
+AI Form Builder revolutionizes form creation by harnessing the power of artificial intelligence. Designed for developers, businesses, and everyday users, this platform provides a seamless way to create, customize, and manage forms with minimal effort.
+
+Key capabilities include:
+
+- **AI-Driven Form Generation**: Quickly generate form fields and layouts using Google Gemini API.
+- **Customizable Form Themes**: Apply over 20+ themes to personalize forms.
+- **Dynamic Form Editing**: Modify forms with ease and edit fields as required.
+- **Seamless Response Management**: Record and save user responses for analysis, with export options to XLSX format.
+
+This SaaS platform also offers robust authentication via Clerk, responsive design with Tailwind CSS and Daisy UI, and a streamlined deployment process for quick and efficient cloud hosting.
 
 ---
 
