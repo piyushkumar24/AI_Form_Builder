@@ -1,13 +1,12 @@
 # AI Form Builder - SaaS Application
 
-<div align="center">
+<div >
   
   <p>
     AI Form Builder is a SaaS platform that leverages advanced AI technology to allow users to effortlessly generate, edit, and share forms. With seamless integrations, powerful features, and a user-friendly interface, it's the ultimate tool for creating versatile forms that can be shared via links, with responses exportable in XLSX format.
   </p>
   <br />
-  <a href="https://ai-form-generation.vercel.app/" target="_blank">
-    <button style="background-color: #3178C6; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Open Application</button>
+ 
   </a>
 </div>
 
